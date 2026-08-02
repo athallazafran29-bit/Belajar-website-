@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body { 
+    font-family: 'Segoe UI', sans-serif; 
+    margin: 0; 
+    padding: 20px; 
+    background: #FFFDF5;  
+}
+nav{
+    background-color: #D3B58D;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    padding: 15px;
+    border-radius: 20px;
+    border-bottom: 2px solid #EADDCA;
+}
+
+nav a{
+    background: #8B4513;
+    text-decoration: none;
+    color: white;
+    width: 150px;
+    height: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 13px 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 1rem;
+}        
+nav a:hover { 
+    background: #A52A2A; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); 
+}
+.hero { 
+    text-align: center; 
+    padding: 40px 20px; 
+    color: #8B4513; 
+}
+.container { 
+    padding: 10px 50px; 
+    display:grid;
+    /* flex-wrap: wrap;  */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+    gap: 25px; }
+        
+.menu-card:hover { 
+    transform: translateY(-20px); 
+    box-shadow: 0 40px 40px rgba(0,0,0,0.05); 
+}
+.menu-card { 
+    margin-top: 20px;
+    background: white; 
+    border-radius: 12px; 
+    overflow: hidden; 
+    border: 1px solid #F5DEB3; 
+    transition: transform 0.3s; 
+}
+.menu-card img { 
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+}
+.menu-info { 
+    padding: 15px; 
+    text-align: center; 
+    text-decoration: none;
+}
+.menu-info h3 { 
+    margin: 10px 0; 
+    color: #5D4037; 
+}
+.order-link { 
+    display: block; 
+    margin-top: 12px; 
+    color: #D2B48C; 
+    text-decoration: none; 
+    font-weight: bold; 
+    border: 1px solid #D2B48C; 
+    padding: 8px; 
+    border-radius: 5px; 
+}
+.order-link:hover { 
+    background: #D2B48C; 
+    color: white; 
+}
+a{
+    text-decoration: none;
+    color: black;
+}
