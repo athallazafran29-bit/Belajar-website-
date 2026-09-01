@@ -1,56 +1,35 @@
-# 🚀 Nama Project Kamu
+# 🍔 Website Pemesanan Makanan Online
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#)
-
-> *Deskripsi singkat 1-2 kalimat tentang apa yang dilakukan project ini dan masalah apa yang diselesaikannya.*
+Repositori ini berisi berkas dan kode untuk **Website Pemesanan Makanan Online**. Proyek ini awalnya dibuat sebagai **tugas UI/UX saat kelas 10**, dan diunggah ke GitHub untuk memenuhi tugas mata pelajaran *Cloud Computing*.
 
 ---
 
-## 📖 Daftar Isi
-- [Fitur Utama](#-fitur-utama)
-- [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
-- [Tampilan / Demo](#-tampilan--demo)
-- [Langkah Instalasi](#-langkah-instalasi)
-- [Cara Penggunaan](#-cara-penggunaan)
-- [Kontribusi](#-kontribusi)
-- [Lisensi](#-lisensi)
+### 📌 Tentang Proyek
+Proyek ini dirancang untuk memberikan alur dan tampilan pemesanan makanan yang simpel serta ramah pengguna (*user-friendly*). 
+
+* 🎓 **Konteks Asli:** Tugas UI/UX Kelas 10
+* ☁️ **Penggunaan Saat Ini:** Tugas Praktikum & Pengelolaan GitHub Mata Pelajaran Cloud Computing
 
 ---
 
-## ✨ Fitur Utama
-
-- ⚡ **Cepat & Ringan:** Dirancang untuk performa optimal.
-- 🎨 **UI Modern:** Desain intuitif dan ramah pengguna.
-- 🔒 **Aman:** Menggunakan enkripsi standar industri.
-- 📱 **Responsif:** Tampil sempurna di perangkat mobile maupun desktop.
+### ✨ Fitur Utama
+* 📋 **Tampilan Menu:** Menampilkan daftar pilihan makanan dan minuman.
+* 🛒 **Alur Pemesanan:** Desain antarmuka pemesanan yang sederhana dan mudah dipahami.
+* 📱 **Desain Responsif:** Tampilan disesuaikan agar tetap rapi saat dibuka di HP maupun komputer.
 
 ---
 
-## 🛠 Teknologi yang Digunakan
-
-- **Frontend:** React.js / Tailwind CSS
-- **Backend:** Node.js / Express
-- **Database:** PostgreSQL
-- **DevOps:** Docker / GitHub Actions
-
----
-
-## 📸 Tampilan / Demo
-
-| Halaman Utama | Fitur Utama |
-| :---: | :---: |
-| ![Screenshot 1](https://via.placeholder.com/400x200?text=Preview+Halaman+Utama) | ![Screenshot 2](https://via.placeholder.com/400x200?text=Preview+Fitur+Utama) |
+### 🛠️ Teknologi & Peralatan
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Langkah Instalasi
-
-Pastikan Anda telah mengunduh dan menginstal **Node.js** dan **Git** di komputer Anda.
-
-1. **Clone repositori ini:**
+### 📂 Cara Membuka Proyek
+1. *Download* atau *clone* repositori ini:
    ```bash
-   git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
-   cd nama-repo
+   git clone [https://github.com/USERNAME_KAMU/NAMA_REPO.git](https://github.com/USERNAME_KAMU/NAMA_REPO.git)
    
