@@ -16,5 +16,6 @@ Proyek ini dirancang untuk memberikan alur dan tampilan pemesanan makanan yang s
 ---
 
 ### 🛠️ Teknologi & Peralatan
-![HTML5](pictures/html css.png)
+![HTML5](pictures/html-css.png)
+
    
