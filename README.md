@@ -16,6 +16,6 @@ Proyek ini dirancang untuk memberikan alur dan tampilan pemesanan makanan yang s
 ---
 
 ### 🛠️ Teknologi & Peralatan
-![HTML5](pictures/html-css.png)
+![HTML5](gambar/https://github.com/athallazafran29-bit/Belajar-website-/blob/main/gambar/gambar%20burger.jpg)
 
    
