@@ -12,7 +12,7 @@ Proyek ini dirancang untuk memberikan alur dan tampilan pemesanan makanan yang s
 ### ✨ Fitur Utama
 * 📋 **Tampilan Menu:** Menampilkan daftar pilihan makanan dan minuman.
 * 🛒 **Alur Pemesanan:** Desain antarmuka pemesanan yang sederhana dan mudah dipahami.
-
+* teks
 ---
 
 ### 🛠️ Teknologi & Peralatan
